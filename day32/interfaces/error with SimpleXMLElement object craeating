@@ -1,0 +1,6 @@
+error in creating SimpleXMLElement object 
+
+resolved :
+sudo apt-get install curl php5.6-simplexml
+apache2 restart
+
